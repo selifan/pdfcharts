@@ -1,0 +1,19 @@
+{
+    "name": "selifan/pdfcharts",
+    "description": "Drawing charts in PDF useing TCPDF class",
+    "keywords": ["bar chart","line chart", "pdf chart"],
+    "homepage": "https://github.com/selifan/pdfcharts",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Alexander Selifonov",
+            "email": "alex@selifan.ru"
+        }
+    ],
+    "minimum-stability": "dev-master",
+    "require": {
+      "php": ">=5.4"
+    }
+}
